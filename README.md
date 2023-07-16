@@ -28,6 +28,7 @@ The centralised data of over speeding vehicles is generated and  person is notif
 ## Optimizations
 - Yolo v5 model for efficient object detection
 - Tesseract OCR for accuracy in ANPR upto 95%
+- Raspberry Pi as processing unit
 
 
 ## Screenshots

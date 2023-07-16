@@ -42,6 +42,9 @@ ANPR<br />
 Number Plate <br />
 ![NumberPlate](https://github.com/monalisa22/Smart_Pillars/assets/100671634/90241323-8746-487c-848c-0a80b1a86512)
 
+Automatic Challan<br />
+![WhatsApp Image 2023-07-16 at 11 18 06 AM](https://github.com/monalisa22/Smart_Pillars/assets/100671634/19cf7010-fbaa-432c-bbe8-90fc7c86afb9)
+
 User interface on Remote App<br />
 ![speed](https://github.com/monalisa22/Smart_Pillars/assets/100671634/e5974851-6178-4548-bea0-a2cafbdf7cbc)
 

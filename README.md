@@ -39,6 +39,10 @@ The centralised data of over speeding vehicles is generated and  person is notif
 ANPR<br />
 ![ANPR](https://github.com/monalisa22/Smart_Pillars/assets/100671634/570b1dec-89a2-4edb-82e9-0e9899214b07)
 
+
+https://github.com/monalisa22/Smart_Pillars/assets/100671634/5ca5fe03-d03a-4011-aa27-ba0d5a04cee6
+
+
 Number Plate <br />
 ![NumberPlate](https://github.com/monalisa22/Smart_Pillars/assets/100671634/90241323-8746-487c-848c-0a80b1a86512)
 
